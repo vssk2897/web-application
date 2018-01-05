@@ -149,6 +149,18 @@ $(document).ready(function(){
                 </div>
             </div>
         </div>
+        <div class="card ">
+            <div class="card-header">
+                <h4 class="card-header">
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">Any Query</a>
+                </h4>
+            </div>
+            <div id="collapseFour" class="panel-collapse collapse">
+                <div class="card-block">
+                    <?php include("./query_scripts/7.php"); ?> 
+                </div>
+            </div>
+        </div>
         
 
         <div class="faqHeader" style="color : #FFD700;">Development and Legislature Statistics</div>

@@ -43,7 +43,7 @@
               <a href="dashboard.php">Dashboard</a>
           </li>
         <li class="dash">
-            <a href="./logout.php">Logout</a>
+            <a href="../user/logout.php">Logout</a>
         </li>
         
       </ul>

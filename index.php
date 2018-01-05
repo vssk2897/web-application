@@ -76,7 +76,7 @@ $(document).ready(function(){
 <div class="container" >
 <!--We use bootstrap to create tabs on the index.php page-->
     <ul class="nav nav-tabs" id="myTab">
-       <li class="active"><a data-toggle='tab' href="#index" >Index</a></li>
+       <li class="active"><a data-toggle='tab' href="#index" >Home</a></li>
        <li><a data-toggle='tab' href="#login" style="color:#6495ED;" >Login</a></li>
        <li><a data-toggle='tab' href="#signup" style="color:#6495ED;">Sign Up</a></li>
        <li><a data-toggle='tab' href="#admin" style="color:#6495ED;">Admin</a></li>
@@ -109,4 +109,12 @@ $(document).ready(function(){
 <script src="./js/reg.js"></script>
 <script src="./js/login.js"></script>
 </body>
+<footer style="background-color: #252527;height: 75px; margin-top: 275px; margin-bottom:0;">
+    <div class="container">
+        <div class="row text-center" style="padding-top: 30px;">
+            <p style="color: #DC123C !important; font : serif;"> Governance Application System &copy; by CSE15U044 and CSE15U014</p>
+        </div>
+    </div>
+    
+</footer>
 </html>

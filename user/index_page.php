@@ -12,5 +12,8 @@
     <div class="row text-center" style="color :#DC143C">
         <p style="color : #6495ED">You are Welcome</p>
     </div>
+    <div class="row text-center" style="color :#DC143C">
+        <p style="color : #6495ED">This application gives the information regarding the governance of our Indian  States.</p>
+    </div>
     
 </div>

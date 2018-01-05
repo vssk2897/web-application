@@ -8,7 +8,7 @@
         <ul class="">
             <li><a href="dashboard.php"><i class="fa fa-tachometer" aria-hidden="true"></i>  Dashboard</a></li>
             <li><a href="admin_user.php"><i class="fa fa-user" aria-hidden="true"></i>  User page </a></li>
-            <li><a href="./admin_scripts/verified.php"><i class="fa fa-flash" aria-hidden="true"></i>Update Information</a></li>
+            <li><a href="./admin_scripts/update_cheif.php"><i class="fa fa-flash" aria-hidden="true"></i>Update Information</a></li>
         </ul>
     </div>
 
@@ -79,7 +79,7 @@
                             </div>
                         </div>
                         
-                        <a href="./admin_scripts/not_verified.php">
+                        <a href="./admin_scripts/delete_cheif.php">
                             <div class="panel-footer">
                                 <span class="pull-left">View Details</span>
                                 <span class="pull-right"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></span>
@@ -101,6 +101,4 @@
 
 </div>
 
-
 </div>
-<!-- row content End -->
